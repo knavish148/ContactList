@@ -1,0 +1,56 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.contact-forms {
+  width: 250px;
+  float: right;
+  margin-bottom: 1px;
+}
+
+.new-contact {
+  border: 2px solid #A4A4A4;
+  width: 200px;
+  padding: 5px;
+  margin-bottom: 5px;
+  overflow: hidden;
+}
+
+.filter-contact {
+  border: 2px solid #A4A4A4;
+  width: 200px;
+  padding: 5px;
+  overflow: hidden;
+}
+
+.addButton {
+  float: right;
+}
+
+.contact-input {
+  margin-bottom: 5px;
+  width: 195px;
+}
+
+.contacts-list {
+  vertical-align: middle;
+  width: 250px;
+}
+
+.ContactCard {
+  border: 2px solid #A4A4A4;
+  float: left;
+  padding: 5px;
+  width: 200px;
+  margin-bottom: 1px;
+  display: block;
+}
+
+.ContactData {
+  float: left;
+}
+
+.DeleteContact {
+  float: right;
+}
